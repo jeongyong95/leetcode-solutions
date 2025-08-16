@@ -1,0 +1,1 @@
+array의 value를 key, index를 value로 하는 map으로 접근해서 푼다.
